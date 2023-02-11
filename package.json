@@ -1,5 +1,5 @@
 {
-  "homepage":"http://Ramkrish16.github.io/Complaint-Portal",
+  "homepage": "http://Ramkrish16.github.io/Complaint-Portal",
   "name": "react-auth",
   "version": "0.1.0",
   "private": true,
@@ -26,7 +26,7 @@
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build ",
+    "deploy": "gh-pages -d build ",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
